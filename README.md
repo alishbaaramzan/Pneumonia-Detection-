@@ -10,7 +10,7 @@ train: 5,208 images
 test: 624 images
 val: 24 images
 
-We modified the dataset to wrap the validation set into one training set of 5232 images. Additionally, we divided the dataset into three classes ( the updated statset file can be foound in this repository )
+We modified the dataset to wrap the validation set into one training set of 5232 images. Additionally, we divided the dataset into three folder for each class.
 
 # Classification Task
 Our classification task involves categorizing X-ray images into three categories:
