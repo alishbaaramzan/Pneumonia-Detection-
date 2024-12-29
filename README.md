@@ -1,9 +1,11 @@
 # Dataset Information
 Data set :-  https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-# Description: This dataset contains 5,232 chest X-ray images, categorized into three classes: "Normal," "Bacterial Pneumonia," and "Viral Pneumonia." The images come from pediatric patients aged 1 to 5 years and were quality-checked by medical professionals before being used for training.
+# Description: 
+This dataset contains 5,232 chest X-ray images, categorized into three classes: "Normal," "Bacterial Pneumonia," and "Viral Pneumonia." The images come from pediatric patients aged 1 to 5 years and were quality-checked by medical professionals before being used for training.
 
-# Structure: The dataset is divided into three folders:
+# Structure:
+The dataset is divided into three folders:
 train: 5,208 images
 test: 624 images
 val: 24 images
